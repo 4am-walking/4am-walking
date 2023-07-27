@@ -1,7 +1,7 @@
 <h1>Hi, I'm Chandler! <br/>
 <h2>👨‍💻Cybersecurity Projects:</h2>
   
-  - [File Integrity Monitor](https://github.com/4am-walking/Learning-Anything/blob/main/File-Integrity-Monitor.ps1)
+  - [File Integrity Monitor](https://github.com/4am-walking/File-Integrity-Monitor.git)
 
 <h2>Certifications</h2>
 
