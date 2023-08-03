@@ -2,6 +2,7 @@
 <h2>👨‍💻Cybersecurity Projects:</h2>
   
   - [File Integrity Monitor](https://github.com/4am-walking/File-Integrity-Monitor.git)
+  - [WIP Azure SOC and Honeynet](https://github.com/4am-walking/WIP-Azure-SOC-Honeynet.git)
 
 <h2>Certifications</h2>
 
