@@ -5,7 +5,7 @@
   - [WIP Azure SOC and Honeynet](https://github.com/4am-walking/WIP-Azure-SOC-Honeynet.git)
 
 <h2>Leetcode solutions</h2>
-  - [Leetcode](https://github.com/4am-walking/leetcode-solutions.git
+  - [Leetcode](https://github.com/4am-walking/leetcode-solutions.git)
 
 <h2>Certifications</h2>
 
