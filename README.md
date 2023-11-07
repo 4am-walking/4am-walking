@@ -4,6 +4,10 @@
   - [File Integrity Monitor](https://github.com/4am-walking/File-Integrity-Monitor.git)
   - [Azure SOC and Honeynet](https://github.com/4am-walking/Azure-SOC-Honeynet.git)
 
+<h2>Side Projects</h2>
+
+  - [Portfolio website for my girlfriend](https://github.com/4am-walking/tyler-blog)
+
 <h2>Leetcode solutions</h2>
 
   - [Leetcode](https://github.com/4am-walking/leetcode-solutions.git)
