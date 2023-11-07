@@ -1,5 +1,5 @@
 <h1>Hi, I'm Chandler! <br/>
-<h2>👨‍💻Cybersecurity Projects:</h2>
+<h2>👨‍💻Cybersecurity Projects</h2>
   
   - [File Integrity Monitor](https://github.com/4am-walking/File-Integrity-Monitor.git)
   - [Azure SOC and Honeynet](https://github.com/4am-walking/Azure-SOC-Honeynet.git)
@@ -19,7 +19,7 @@
   - [CompTIA Network+](https://www.credly.com/badges/dc63be2b-33b0-4bb5-af5b-2d5288d6fb9f/public_url)
   - [Microsoft Azure Fundamentals AZ-900](https://www.credly.com/badges/cb040e6d-53f0-4da1-a348-511711669504/public_url)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="ChandlerMatheny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
